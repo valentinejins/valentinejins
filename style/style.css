@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  font-family: "Work Sans", sans-serif;
+  font-family: "Prompt", sans-serif;
 }
 
 .container {
@@ -96,6 +96,14 @@ body {
   padding: 3px 5px;
   border-radius: 3px;
   display: inline-block;
+}
+
+.nine strong {
+  padding: 3px 5px;
+  border-radius: 3px;
+  display: inline-block;
+  color: white;
+  background-color: rgb(255, 68, 99);
 }
 
 .five .idea-5 {
